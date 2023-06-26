@@ -1,0 +1,301 @@
+/*dando estilo a todo:*/
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+html{
+    background: #c0c0c0;
+}
+/*.............................*/
+
+/*dando tamaño al body:*/
+body{
+
+    height: 1122.5px;
+    width: 793.7px;
+    background: #6eccb1;
+    margin: auto;
+}
+/*.............................*/
+
+/*Trabajando con header:*/
+header{
+
+    width: 793.7px;
+    height: 188.9px;
+    background: #a6d6e9;
+    margin: auto;
+}
+
+#foto{
+    height: 188.9px;
+    background: rgb(51, 53, 53);
+    float: left;
+    width: 292.3px;
+    margin: 0px 0px 0px 10px;
+}
+
+#fot{
+    width: 302.3px;
+    height: 188.9px;
+}
+img{
+    width: 302.3px;
+    height: 188.9px;
+} 
+
+
+
+#nombres{
+
+    width: 481.3px;
+    height: 188.9px;
+    background: rgb(75, 132, 211);
+    float: left;
+}
+
+#nomb2{
+    color: #e3e5e7;
+    padding: 34px;
+    font-size: 31px;
+    margin-top: 20px;
+    margin: -4;
+    float: left;
+}
+
+#nomb3{
+    font-size: 22px;
+    margin-top: -40px;
+    margin: 8;
+    float: left;
+    text-align: CENTER;
+    color: #e3e5e7;
+}
+
+/*.............................*/
+
+/*Trabajando con main:*/
+main{
+
+    width: 793.7px;
+    height: 801px;
+    background: #e292ba;
+}
+
+#lado_izquierdo{
+    width: 292.3px;
+    height: 821.4px;
+    background:  #c2b779;
+    float: left;
+    margin: 0px 0px 0px 10px;
+}
+
+#contenedor1{
+    padding:2px;
+    margin: 1px;
+}
+
+
+#objetivo{
+    text-align: center;
+    padding: 60px;
+    font-size: 20px;
+
+
+}
+#parraf{
+    text-align: justify;
+    padding: 10px;
+    font-size: 15px;
+    margin-top: 15px;
+}
+
+
+.info1{
+	margin-top: 60px;
+}
+.heading1{
+	
+    margin: 0 auto;
+    padding: 1px;
+    margin-top: 11px;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+.p1{
+	color: var(--gray);
+	margin: 30px;
+	margin-top: 20px;
+	font-size: 16px;
+    line-height: 18px;
+    
+}
+
+/*.............................*/
+
+
+/*Trabajando con article:*/
+#lado_derecho{
+
+    width: 481.3px;
+    height: 821.4px;
+    background: #96a3eb;
+    float: left;
+}
+#contenedor2{
+    display: flex;
+    padding: 12px;
+    float: left;
+
+}
+
+.columna1{
+	margin-top: 6px;
+}
+.heading2{
+	
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 1px;
+    font-size: 20px;
+    text-align: center;
+    float: left;
+}
+.p2{
+	color: var(--gray);
+	margin: 0px;
+	margin-top: 8px;
+	font-size: 18px;
+    line-height: 17px;
+    
+}
+.p2 span{
+	font-size: 14px;
+    width: 184px;
+    text-align: center;
+}
+
+
+.columna2{
+	margin-top: 6px;
+}
+.heading3{
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 1px;
+    font-size: 20px;
+    text-align: center;
+}
+.p3{
+	color: var(--gray);
+	margin: 0px;
+	margin-top: 1px;
+	font-size: 14px;
+    line-height: 17px;
+    
+}
+.heading31{
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 1px;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+#columna3{
+	margin-top: 1px;
+    padding: 2px;
+}
+.heading5{
+    padding: 20px;
+    margin-top: 4px;
+    font-size: 20px;
+}
+.p4{
+	margin: 30px;
+	margin-top: 1px;
+	font-size: 14px;
+    line-height: 17px;
+}
+
+
+#infor{
+    padding: 20px;
+    margin-top: 1px;
+    font-size: 20px;
+}
+
+#contenedor3{
+    display: flex;
+    float: left;
+    text-align: center; 
+}
+
+#columna4{
+	margin-top: -8px;
+    margin: 0px ;
+    padding: 2px;
+
+}
+.heading6{
+    padding: 12px;
+    margin-top: 4px;
+    font-size: 20px;
+
+}
+.p5{
+	margin: 4px;
+	margin-top: 1px;
+	font-size: 14px;
+    line-height: 17px;
+    float: left;
+}
+
+#columna5{
+	margin-top: -8px;
+    padding: 2px;
+}
+.heading6{
+    padding: 12px;
+    margin-top: 4px;
+    font-size: 20px;
+}
+.p6{
+	margin: 0px 15px;
+	font-size: 14px;
+    line-height: 17px;
+}
+
+
+
+
+/*.............................*/
+
+
+/*Trabajando con main:*/
+footer{
+
+    width: 793.7px;
+    height:92.0px;
+    background: #4dd46a;
+    margin-top: 30px;
+}
+
+#columna6{
+    text-align: center;
+    padding: 60px;
+    margin-top: 30px;
+    margin: 20px 20px 20px 20px;
+}
+.p7{
+
+	font-size: 16px;
+    text-align: center;
+    margin-top: 30px;
+}
+/*.............................*/
